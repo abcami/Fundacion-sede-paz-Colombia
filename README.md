@@ -10,7 +10,7 @@ Esta fundación tiene la misión de contribuir y tocar grandes corazones que des
 <!-- Actividades.html -->
 
 ## Fotos
-<img src=".github/WhatsApp Image 2023-12-20 at 15.02.33.jpg"
+<img src=".github/WhatsApp Image 2023-12-20 at 15.02.33.jpg" alt="imagen 1">
 ![Imagen 1]()
 ![Imagen 2](ruta/imagen2.jpg)
 
