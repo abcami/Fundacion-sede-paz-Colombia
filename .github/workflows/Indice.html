@@ -1,0 +1,22 @@
+npx gatsby new gatsby-starter-portfolio-emilia https://github.com/LekoArts/gatsby-starter-portfolio-emilia
+// gatsby-config.mjs
+const config = {
+  plugins: [
+    {
+      resolve: `@lekoarts/gatsby-theme-emilia`,
+      options: {
+          name: `Emilia`,
+          location: `Paris`,
+          socialMedia: [
+            {
+              title: `Twitter`,
+              href: `https://www.twitter.com/lekoarts_de`
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+
+export default config
