@@ -1,7 +1,7 @@
 # Fundación
 Esta fundación tiene la misión de contribuir y tocar grandes corazones que desean una sociedad más solidaria.
 ## Fotos
-![Imagen 1](ruta/imagen1.jpg)
+![Imagen 1](.github/Logo fundación.png)
 ![Imagen 2](ruta/imagen2.jpg)
 
 ## Videos
