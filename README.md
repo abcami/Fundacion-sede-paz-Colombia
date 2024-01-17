@@ -1,9 +1,10 @@
-<img src=".github/Logo fundación.png" alt="Logotipo de la Fundación sede paz Colombia">
+# <img src=".github/Logo fundación.png" alt="Logotipo de la Fundación sede paz Colombia">
 
 # Fundación Sede Paz Colombia.
 Esta fundación tiene la misión de contribuir y tocar grandes corazones que desean una sociedad más solidaria.
 
-<!-- índice.html -->
+# <!-- índice.html -->
+# <!-- índice.html -->
 
 ## Fotos
 ![Imagen 1](ruta/imagen1.jpg)
