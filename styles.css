@@ -1,9 +1,22 @@
-body {
-  background-color: #f5f5f5; /* Color de fondo */
-  color: #333; /* Color del texto */
-  font-family: 'Arial', sans-serif; /* Tipo de letra */
+npx gatsby new gatsby-starter-portfolio-emilia https://github.com/LekoArts/gatsby-starter-portfolio-emilia
+// gatsby-config.mjs
+const config = {
+  plugins: [
+    {
+      resolve: `@lekoarts/gatsby-theme-emilia`,
+      options: {
+          name: `Emilia`,
+          location: `Paris`,
+          socialMedia: [
+            {
+              title: `Twitter`,
+              href: `https://www.twitter.com/lekoarts_de`
+            }
+          ]
+        }
+      }
+    }
+  ]
 }
 
-h1 {
-  color: #0066cc; /* Color del encabezado */
-}
+export default config
