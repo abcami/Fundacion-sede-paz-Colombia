@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/abcami/Fundacion-sede-paz-Colombia.de">
+  <a href="https://github.com/abcami/Fundacion-sede-paz-Colombia.git">
     <img alt="LekoArts" src="content/assets/Logo fundacion sede paz colombia.png" />
   </a>
 </p>
