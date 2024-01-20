@@ -1,6 +1,6 @@
 # Mi Página Web con el Tema Emilia
 
-![LekoArts](https://img.lekoarts.de/gatsby/gatsby-site-illustration.png)
+![LekoArts](https://content/assets/Logo fundacion sede paz colombia.png)
 
 # Gatsby Starter Portfolio: Emilia
 
