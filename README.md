@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://content/assets/Logo fundacion sede paz colombia.png" />
+    <img alt="LekoArts" src="content/assets/Logo fundacion sede paz colombia.png" />
   </a>
 </p>
 <h1 align="center">
