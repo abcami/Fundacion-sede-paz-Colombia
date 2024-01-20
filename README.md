@@ -1,3 +1,39 @@
+# Mi Página Web con el Tema Emilia
+
+![LekoArts](https://img.lekoarts.de/gatsby/gatsby-site-illustration.png)
+
+# Gatsby Starter Portfolio: Emilia
+
+[![License](https://img.shields.io/badge/license-0BSD-blue.svg)](https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/LekoArts)](https://github.com/sponsors/LekoArts)
+[![Website](https://img.shields.io/badge/-website-blue)](https://emilia.lekoarts.de)
+[![Follow @lekoarts_de](https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de)](https://twitter.com/intent/follow?screen_name=lekoarts_de)
+
+## ✨ Características
+
+- MDX
+- Totalmente personalizable mediante Gatsby Themes (y Theme UI)
+- Modo Claro / Modo Oscuro
+- Transiciones de Página
+- Cuadrícula de mampostería y enfoque en imágenes grandes
+- SEO (Sitemap, OpenGraph tags, Twitter tags)
+- Manifiesto de la WebApp
+
+## ⏱️ Inicio Rápido
+
+Despliega este iniciador con un clic en [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-emilia):
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-emilia)
+
+## 🚀 Comenzar
+
+### 1. **Crea un sitio Gatsby.**
+
+Usa Gatsby CLI para clonar el sitio e instalar las dependencias:
+
+```sh
+npx gatsby new gatsby-starter-portfolio-emilia https://github.com/LekoArts/gatsby-starter-portfolio-emilia
+
 <p align="center">
   <a href="https://emilia.lekoarts.de">
     <img alt="Fundacion-Sede-Paz-Colombia" src=".github/Logo fundación.png" />
